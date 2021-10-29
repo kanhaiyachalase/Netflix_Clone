@@ -5,7 +5,7 @@
 
 
 
-#This is simple netflix clone
+# This is simple netflix clone
 
 ![Screenshot (58)](https://user-images.githubusercontent.com/79249131/139422705-0421b0ac-1b70-40cb-9916-e6c9e4fd93f0.png)
 
